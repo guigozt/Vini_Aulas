@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Cristiano Ronaldo",
+        "idade": 42,
+        "altura": 1.85,
+        "pais": "Portugual"
+    },
+    {
+        "nome": "Alysa Liu",
+        "idade": 20,
+        "altura": 1.57,
+        "pais": "E.U.A"
+    },
+    {
+        "nome": "Mia Goth",
+        "idade": 32,
+        "altura": 1.73,
+        "pais": "E.U.A"   
+    },
+    {
+        "nome": "Lionel Messi",
+        "idade": 38,
+        "altura": 1.69,
+        "pais": "Argentina"
+    },
+    {
+        "nome": "Luiz Inacio Lula da Silva",
+        "idade": 80,
+        "altura": 1.68,
+        "pais": "Brasil"
+    }
+]
