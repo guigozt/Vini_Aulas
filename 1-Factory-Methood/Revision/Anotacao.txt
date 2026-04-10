@@ -23,6 +23,5 @@ Estrutura do Factory Method:
     2.  Produtos concretos (implementações)
     3.  Fabrica (criador)
 
-
 Regra de ouro:
-    -   Deixe uma classe responsável por decidir qual objeto criar.”
+    -   Deixe uma classe responsável por decidir qual objeto criar.

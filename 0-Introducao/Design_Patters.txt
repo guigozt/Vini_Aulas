@@ -1,0 +1,25 @@
+Design Patterns:
+->  Design Patterns (ou padrões de projeto) são soluções reutilizaveis para problemas comuns no desenvolvimento de sistemas.
+    Em vez de reinventar a roda, toda vez que aparece um problema parecido, usa-se um padrão já conhecido, testado e organizado.
+
+Para que servem?
+-   Oganizar melhor o código
+-   Facilitar manutenção
+-   Evitar erros comuns
+-   Tornar o código mais reutilizavel
+-   Melhorar comunicação entre devs
+
+Tipos de Design Patterns
+->  São divididos em 3 categorias principais
+
+    1.  Criacionais (Creation): Focados em como criar objetos
+        -   Singleton -> Garante que exista uma instancia
+        -   Factory ->  Cria objetos sem expor a lógica
+
+    2.  Estruturais (Structure): Focados em como organizar classes e objetos
+        -   Adpater ->  Faz coisas imcompativeis funcionarem juntas
+        -   Decorator ->    Adiciona funcionalidades sem alterar o código original
+    
+    3.  Comportamentais (Behavior): Focados em como os objetos interagem
+        -   Observer -> Um objeto avisa outros quando algo muda
+        -   Strategy -> Permite trocar algoritmos facilmente

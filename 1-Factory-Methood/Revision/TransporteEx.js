@@ -42,4 +42,4 @@ transporte1.entregar()
 console.log("\n-------------------\n")
 
 const transporte2 = fabrica.criarTransporte("moto")
-transporte1.entregar()
+transporte2.entregar()
